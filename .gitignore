@@ -12,3 +12,8 @@
 __pycache__/
 #виртуальное окружение
 venv/
+MongoDB Compass/
+*.rtf
+Выборка_и_агрегация_данных_в_MongoDB*
+.env
+*.env
